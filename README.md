@@ -1,1 +1,1 @@
-# -cat2-rust
+# cat2-rust
